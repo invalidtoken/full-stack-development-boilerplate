@@ -1,2 +1,2 @@
-# Full Stack Development Boilerplate Code (React && Express)
+# Full Stack Development Boilerplate Code
 
